@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/qExHiPc.png" group-title="Undefined",Canal Amé 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",DAN TV (720p)
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="Undefined",HM (720p)
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="Undefined",Hilando Fino (720p)
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="Undefined",LVM (480p)
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="Undefined",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="Undefined",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="Undefined",PH (720p)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" group-title="Undefined",Super TV 55 Santiago
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title="Undefined",TVS (540p)
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Telefuturo 23 (720p)
+http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png" group-title="Undefined",Teleunion (480p)
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="Undefined",Vallevision (720p)
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8?checkedby:iptv.iptvcat.net
+#EXTINF:0 tvg-country="DO" tvg-logo="https://1.bp.blogspot.com/-5JBZ6ZO0ybk/XaS-xAYTF7I/AAAAAAAAoXA/u1OK-aVn_sQNM86uwWFBqLuk5Q-Uzo7hgCLcBGAsYHQ/s200/vegateve.jpg" group-title="Undefined",Vega Teve (480p)
+https://ss6.domint.net:3012/tes_str/teleelsalvador/playlist.m3u8?checkedby:iptv.iptvcat.net
